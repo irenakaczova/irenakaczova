@@ -10,3 +10,4 @@ width="100" height="100">
 
 <img alt="bachelor_thesis" src="bachelor_thesis.png"
 max-width=45% height=auto>
+My bachelor's thesis: VR created in Unity :hospital:
