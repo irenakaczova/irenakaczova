@@ -6,4 +6,7 @@ width="100" height="100">
 <img alt="html5-original" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100" height="100"/>
 <img alt="apache-original" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="100" height="100"/>
 <img alt="sass-original" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="100" height="100"/>
-<img alt="docker-original" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="100" height="100"/>          
+<img alt="docker-original" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="100" height="100"/>   
+
+<img alt="bachelor_thesis" src="bachelor_thesis.png"
+max-width=45% height=auto>
